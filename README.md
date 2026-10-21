@@ -9,3 +9,5 @@
   2. 亦欢迎指正翻译错误或提出建议。请使用右侧的Issues（问题）功能提出。
 
 ## QTTabBar最新的开源release版本下载地址：https://github.com/indiff/qttabbar/releases
+## 2026年10月21日 建议直接:https://gindiff.github.io/qttabbar/
+## 最新版本在这里，已经汉化好了:https://github.com/indiff/qttabbar/releases
